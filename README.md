@@ -1,4 +1,5 @@
-# News Aggregator
+# News Aggregator 
+### Live Demo link (https://news-app-one-rouge.vercel.app/)
 
 The **News Aggregator** is a React-based application that aggregates news articles from multiple sources (NewsAPI, The Guardian, and New York Times).
 
