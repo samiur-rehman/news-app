@@ -32,20 +32,20 @@ The **News Aggregator** is a React-based application that aggregates news articl
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/sami-rehman/news-aggregator.git
+```bash
+   git clone https://github.com/samiur-rehman/news-app.git
    cd news-aggregator
-
-   ```bash
+```
+2. **Run locally React App**
+```bash
    npm install
    npm start
-
-
+```
 ### Build the Docker image
 
-    ```bash
+```bash
     docker build -t news-app .
     docker run -d -p 80:80 --name news-app-container news-app
-
+```
 
 **Open your browser and navigate to http://localhost to view the docker build running**
