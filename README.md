@@ -34,7 +34,7 @@ The **News Aggregator** is a React-based application that aggregates news articl
 
 ```bash
    git clone https://github.com/samiur-rehman/news-app.git
-   cd news-aggregator
+   cd news-app
 ```
 2. **Run locally React App**
 ```bash
